@@ -36,7 +36,7 @@ A free, open-source server plugin that integrates **[HestiaCP](https://hestiacp.
 
 ### 1 — Copy the plugin files
 
-Upload the `hestiacp` directory into your ClientExec plugins folder:
+Downloaded folder and rename it to `hestiacp`. Upload the folder into your ClientExec plugins folder:
 
 ```
 [clientexec-root]/plugins/server/hestiacp/
@@ -151,4 +151,4 @@ HestiaCP usernames must be lowercase alphanumeric (plus `_` and `-`), max 16 cha
 
 ## Credits
 
-Developed by [Kalawebs](https://kalawebs.com)
+Developed by [LOUIS SANJOH KALA](https://lskala.top)
